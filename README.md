@@ -1,5 +1,11 @@
 # AsyncButton
 
+[![CI](https://github.com/NiloufarRabiee/swiftui-async-button/actions/workflows/ci.yml/badge.svg)](https://github.com/NiloufarRabiee/swiftui-async-button/actions/workflows/ci.yml)
+![Swift](https://img.shields.io/badge/Swift-5.9%2B-orange)
+![iOS](https://img.shields.io/badge/iOS-16%2B-blue)
+![macOS](https://img.shields.io/badge/macOS-13%2B-blue)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 A lightweight reusable **SwiftUI button for async actions with automatic loading state and double-tap prevention**.
 
 It is useful for operations such as:
